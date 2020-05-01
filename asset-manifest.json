@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bitz-bytez-components/static/css/main.1b9bcb54.chunk.css",
+    "main.js": "/bitz-bytez-components/static/js/main.f507c9d7.chunk.js",
+    "main.js.map": "/bitz-bytez-components/static/js/main.f507c9d7.chunk.js.map",
+    "runtime-main.js": "/bitz-bytez-components/static/js/runtime-main.e62e217e.js",
+    "runtime-main.js.map": "/bitz-bytez-components/static/js/runtime-main.e62e217e.js.map",
+    "static/js/2.0968486d.chunk.js": "/bitz-bytez-components/static/js/2.0968486d.chunk.js",
+    "static/js/2.0968486d.chunk.js.map": "/bitz-bytez-components/static/js/2.0968486d.chunk.js.map",
+    "index.html": "/bitz-bytez-components/index.html",
+    "precache-manifest.7c0f4c5b18c55861d807debfbd05572b.js": "/bitz-bytez-components/precache-manifest.7c0f4c5b18c55861d807debfbd05572b.js",
+    "service-worker.js": "/bitz-bytez-components/service-worker.js",
+    "static/css/main.1b9bcb54.chunk.css.map": "/bitz-bytez-components/static/css/main.1b9bcb54.chunk.css.map",
+    "static/js/2.0968486d.chunk.js.LICENSE.txt": "/bitz-bytez-components/static/js/2.0968486d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62e217e.js",
+    "static/js/2.0968486d.chunk.js",
+    "static/css/main.1b9bcb54.chunk.css",
+    "static/js/main.f507c9d7.chunk.js"
+  ]
+}
