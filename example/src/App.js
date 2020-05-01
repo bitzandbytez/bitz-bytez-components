@@ -1,13 +1,13 @@
 import React from 'react'
 
-import { Button } from 'bitz-bytez-components'
+import { ExampleComponent } from 'bitz-bytez-components'
 import 'bitz-bytez-components/dist/index.css'
 
 const App = () => {
 
   return (
     <div>
-      <Button text='Button 1' />
+      <ExampleComponent text='Button 1' />
     </div>
   )
 }

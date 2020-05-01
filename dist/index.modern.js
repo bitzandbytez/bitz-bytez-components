@@ -4,7 +4,7 @@ import styled from 'styled-components';
 let _ = t => t,
     _t;
 const Button = styled.button(_t || (_t = _`
-  background: RoyalBlue;
+  background: royalBlue;
   padding: 1rem 3rem;
   color: #fff;
   margin: 1rem;
@@ -16,7 +16,7 @@ const Button = styled.button(_t || (_t = _`
   box-shadow: 0px 1px 15px #333;
   &:hover {
     background: #fff;
-    color: RoyalBlue;
+    color: royalBlue;
   }
 `));
 const ExampleComponent = ({
